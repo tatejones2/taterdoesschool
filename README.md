@@ -71,7 +71,7 @@ Assignment completion and newly added assignments persist in local storage for t
 Every push to `main` runs the validation suite and deploys the generated `dist` directory through GitHub Actions. The published application is available at:
 
 ```text
-https://tatejones2.github.io/taterdoesschool/
+https://taterdoesschool.com/
 ```
 
 Hash-based client routing is used so every application screen remains refresh-safe on GitHub Pages.
